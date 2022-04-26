@@ -3,4 +3,4 @@
  deactivate 
  pip list
  conda create -n project
-  
+ pip freeze > requirements.txt
